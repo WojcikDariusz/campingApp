@@ -1,0 +1,19 @@
+#footerNote {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#backButton {
+    width: 30%;
+    margin: 50px auto;
+}
+
+#form {
+    width:30%;
+    margin: 30px auto;
+}
+
+.centerElement {
+    width: 50%;
+    margin: 0 auto;
+}
